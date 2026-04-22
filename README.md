@@ -41,3 +41,8 @@ Marina Pier aims to automate boat recognition using deep learning to streamline 
 * OpenCV
 
 ---
+
+### 👤 Author
+
+**Ujjwal Manikya Nath**
+* Data Science | Machine Learning | Computer Vision
