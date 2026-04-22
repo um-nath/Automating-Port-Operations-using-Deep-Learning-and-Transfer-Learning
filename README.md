@@ -29,7 +29,3 @@ Python
 TensorFlow / Keras
 NumPy, Matplotlib
 OpenCV
-
-📊 **Results**
-Achieved accurate classification of boat categories
-Lightweight model suitable for real-time mobile inference
