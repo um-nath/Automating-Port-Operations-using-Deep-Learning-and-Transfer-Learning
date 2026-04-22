@@ -35,8 +35,9 @@ Marina Pier aims to automate boat recognition using deep learning to streamline 
 ### 🛠️ Tech Stack
 
 * Python
-* TensorFlow / Keras
-* NumPy, Matplotlib
+* TensorFlow
+* NumPy
+* Matplotlib
 * OpenCV
 
 ---
