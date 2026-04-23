@@ -7,6 +7,10 @@ Developed a deep learning model to classify boats for automated reporting. Built
 Marina Pier aims to automate boat recognition using deep learning to streamline reporting systems. This project focuses on building an efficient image classification model capable of identifying different types of boats, with an additional goal of deploying the solution on mobile devices.
 
 ---
+### Dataset
+
+* Dataset could be downloaded using the link: https://drive.google.com/file/d/1tZmAo40Fb639wsUp7g8we3Q3O2bfksfe/view?usp=sharing
+---
 
 ### 🎯 Objectives
 
